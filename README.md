@@ -61,7 +61,7 @@ Projekt obejmuje:
 | **Vehicle Logos Dataset** | Zdjęcia samych logotypów samochodów z maskami (segmentacja). | [GitHub – vehicle-logos-dataset](https://github.com/GeneralBlockchain/vehicle-logos-dataset) |
 | **Car Brand Detection (Roboflow)** | Zdjęcia samochodów z zaznaczonymi bounding boxami (detekcja). | [Roboflow – car_brand_detection](https://universe.roboflow.com/fatince/car_brand_detection-gbnlb) |
 
-Na pierwszym etapie planujemy wykorzystać **UK Car Brands Dataset** do stworzenia prostego modelu klasyfikacyjnego, aby ocenić skuteczność bazowego rozwiązania.
+Na pierwszym etapie planujemy wykorzystać **UK Car Brands Dataset** w wersji UKCarsDataset.1005 do stworzenia prostego modelu klasyfikacyjnego, aby ocenić skuteczność bazowego rozwiązania.
 
 ---
 
