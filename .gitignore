@@ -1,0 +1,7 @@
+# Ignoruj wszystkie pliki w folderach data/raw i data/processed
+data/raw/*
+data/processed/*
+
+# Ale zachowaj strukturę folderów
+!data/raw/.gitkeep
+!data/processed/.gitkeep
